@@ -5,4 +5,4 @@ olive oil
 salt
 
 # instructions
-cook the chickpeas
+smoosh chickpeas
