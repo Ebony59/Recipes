@@ -1,2 +1,5 @@
 # ingredients
-blablabla
+chickpeas
+lemon
+olive oil
+salt
